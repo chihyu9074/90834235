@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title>網頁架構</title>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/chihyu9074/90834235/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</div>
+<h3>餐飲美食首頁</h3>
+</div>
 
-### Markdown
+<a href="2nd.html">Le Ruban Pâtisserie 法朋烘焙甜點坊<br>老奶奶檸檬蛋糕</a>
+<a href="3nd.html">深夜裡的法國手工甜點<br>超厚層生巧克力塔</a>
+<a href="4nd.html">不二緻果<br>真芋頭</a>
+<a href="5nd.html">心得感想</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<table border="1">
+<tr>
+<th>圖片</th>
+<th>標題</th>
+<th>說明</th>
+</tr>
 
-```markdown
-Syntax highlighted code block
+<tr>
+<td><img src=".\0011.jpg" width="400" height="300" align="left"></td>
+<td><h3>Le Ruban Pâtisserie 法朋烘焙甜點坊<br>老奶奶檸檬蛋糕</h3></td>
+<td>位在大安區一處寧靜小巷弄中的「法朋」，<br>
+因著一塊酸酸甜甜、口感紮實的「老奶奶檸檬蛋糕」在競爭激烈中的台北甜點店中打響名氣。<br>
+法朋販售各種精緻的法式甜品，經典品項除了老奶奶檸檬蛋糕之外，<br>
+還有生鮮奶油蛋糕及水果塔。<br>
+店內運用法國伊斯尼奶油、日本和三盆糖等高級原料手工製作的鐵盒餅乾也是人手一盒。<br>
+法朋主要以外帶的客群為主，內用有 NT$200 低消，<br>
+點一杯飲品加小蛋糕，與朋友聊上一下午也很適合！<p></td>
+</div>
+</tr>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<tr>
+<td><img src=".\0012.jpg" width="400" height="300" align="left"></td>
+<td><h3>深夜裡的法國手工甜點<br>超厚層生巧克力塔</h3></td>
+<td>從網購甜點起家的深夜裡的法國手工甜點，<br>
+原先需要在網路預訂後再於指定時間前往領取，因此有了「台北市最難買到的甜點」之稱，<br>
+2020 年才在東門區有了店面。
+店內招牌的甜品是「超厚層生巧克力塔」，<br>
+上層厚實又綿密的生巧克力搭配甜而不膩的塔皮，濃厚的巧克力風味是大人們的最愛啊！<br>
+草莓季時店家也會推出特定的季節性甜品，<br>
+像是卡士達草莓塔、白色乳酪草莓塔佐法國栗子泥都是超人氣的草莓季甜品。<p></td>
+</div>
+</tr>
 
-1. Numbered
-2. List
+<tr>
+<td><img src=".\0013.jpg" width="400" height="300" align="left"></td>
+<td><h3>不二緻果<br>真芋頭</h3></td>
+<td>不二緻果原名為「不二家」，是高雄在地的伴手禮餅店，<br>
+已有 80 多年的歷史，現在在台北車站也買得到！
+不二緻果用料實在的「真芋頭」芋頭蛋糕是超人氣的招牌商品，<br>
+蓬鬆的香草戚風蛋糕夾著香氣十足的芋角及芋泥，<br>
+鮮奶油更是甜而不膩，讓人忍不住一口接著一口。<br>
+夾層中的芋頭非常大塊，咬下蛋糕的每一口幾乎都能吃到芋頭。<br>
+除了真芋頭之外，外皮 Q 彈、內餡濃郁香甜的「女神捲」也是芋頭控們必買的品項！<p></td>
+</div>
+</tr>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<tr>
+<td><img src=".\0014.JPG" width="400" height="300" align="left"></td>
+<td><h3>90834235林芝羽心得感想 </h3></td>
+<td>第一次接觸到寫網頁設計的課程，本來覺得餐飲科為什麼要學這個呢？<br>
+後來經歷過幾次的課程之後，才發現原來自己寫出自己的網頁這麼酷，<br>
+以後如果可以成立自己的品牌，也可以運用這學期所學的自己架構網站，<br>
+謝謝老師的指導。      
+</div>
+</tr>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+</table>
+<audio src=".\music.mp3" autoplay controls> </audio>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chihyu9074/90834235/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
